@@ -11,6 +11,13 @@ Finally, a recap CSV file is created with the generated password of each user.
 
 # Usage
 
+Change the variables with the ones which applies for you : 
+```
+nextcloud_url
+admin_username
+admin_password
+```
+
 `python3 script.py file_to_import.csv`
 (simply replace the file_to_import.csv by the file containing the informations). 
 
