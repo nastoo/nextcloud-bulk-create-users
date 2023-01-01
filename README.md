@@ -18,6 +18,7 @@ admin_username
 admin_password
 ```
 
+Then, to execute the script, open a terminal and type : 
 `python3 script.py file_to_import.csv`
 (simply replace the file_to_import.csv by the file containing the informations). 
 
